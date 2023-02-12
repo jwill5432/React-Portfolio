@@ -22,7 +22,7 @@ function App() {
     <div className="project-section">
       <h2>Daily Planner</h2>
       <a href="https://jwill5432.github.io/Daily-Planner/">
-        <img src="./components/images/dailyplanner.png" alt="Daily Planner" />
+        <img src={("./components/images/dailyplanner.png" )}alt="Daily Planner" />
       </a>
       <p>This is a daily planner. It saves daily tasks based on the hour and changes color based on what time it is.</p>
     </div>
