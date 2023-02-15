@@ -1,7 +1,5 @@
 # React-Portfolio
 
-[Deployed Website](https://app.netlify.com/sites/thriving-dasik-d36565/overview)
-
 ## Description
 
 The best way to present yourself as a coder who has developed multiple projects is to create a place to showcase your work altogether. This is why i created a react portfolio to display my acheivements as a coder. the webiste is a single page react portfolio that is deployed on the netlify app. The profile contains several projects that can be clicked and a footer to help navigate to the github and resume of the user.
