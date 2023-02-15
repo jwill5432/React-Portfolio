@@ -1,6 +1,6 @@
 import React from 'react';
 
-class MyComponent extends React.Component {
+class Project extends React.Component {
   render() {
     return (
       <div>
@@ -47,4 +47,4 @@ class MyComponent extends React.Component {
   }
 }
 
-export default MyComponent;
+export default Project;
